@@ -1,0 +1,43 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.endOfLine": "lf",
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "cSpell.words": [
+    "bằng",
+    "checkin",
+    "chọn",
+    "chưa",
+    "công",
+    "Đăng",
+    "danh",
+    "điện",
+    "dùng",
+    "exceljs",
+    "hoặc",
+    "không",
+    "kiện",
+    "lòng",
+    "Ngày",
+    "người",
+    "nguyên",
+    "nhập",
+    "nhật",
+    "phải",
+    "qrcode",
+    "sách",
+    "statusguest",
+    "thái",
+    "thành",
+    "thất",
+    "thấy",
+    "Thêm",
+    "thoại",
+    "Thông",
+    "trạng",
+    "uuidv",
+    "Xuất"
+  ]
+}

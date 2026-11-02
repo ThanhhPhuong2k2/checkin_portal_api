@@ -1,0 +1,37 @@
+[
+  {
+    "role": "inspectionOrg",
+    "name": {
+      "vi": "Đơn vị kiểm định",
+      "en": "Inspection Organization"
+    }
+  },
+  {
+    "role": "notarizationOrg",
+    "name": {
+      "vi": "Đơn vị công chứng",
+      "en": "Notarization Organization"
+    }
+  },
+  {
+    "role": "securedAssetProtection",
+    "name": {
+      "vi": "Bảo vệ tài sản đảm bảo",
+      "en": "Guaranteed asset protection"
+    }
+  },
+  {
+    "role": "investor",
+    "name": {
+      "vi": "Chủ đầu tư",
+      "en": "Investor"
+    }
+  },
+  {
+    "role": "valuationOrg",
+    "name": {
+      "vi": "Đơn vị định giá",
+      "en": "Valuation Organization"
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "translates": {
+      "vi": {
+        "name": "Căn hộ chung cư"
+      },
+      "en": {
+        "name": "Apartment"
+      }
+    }
+  },
+  {
+    "id": "2",
+    "translates": {
+      "vi": {
+        "name": "Nhà ở"
+      },
+      "en": {
+        "name": "House"
+      }
+    }
+  },
+  {
+    "id": "3",
+    "translates": {
+      "vi": {
+        "name": "Đất"
+      },
+      "en": {
+        "name": "Land"
+      }
+    }
+  },
+  {
+    "id": "4",
+    "translates": {
+      "vi": {
+        "name": "Văn phòng"
+      },
+      "en": {
+        "name": "Office"
+      }
+    }
+  },
+  {
+    "id": "5",
+    "translates": {
+      "vi": {
+        "name": "Mặt bằng kinh doanh"
+      },
+      "en": {
+        "name": "Business premises"
+      }
+    }
+  }
+]

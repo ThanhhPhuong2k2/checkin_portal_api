@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "translates": {
+      "vi": {
+        "name": "Đông"
+      },
+      "en": {
+        "name": "East"
+      }
+    }
+  },
+  {
+    "id": "2",
+    "translates": {
+      "vi": {
+        "name": "Tây"
+      },
+      "en": {
+        "name": "West"
+      }
+    }
+  },
+  {
+    "id": "3",
+    "translates": {
+      "vi": {
+        "name": "Nam"
+      },
+      "en": {
+        "name": "South"
+      }
+    }
+  },
+  {
+    "id": "4",
+    "translates": {
+      "vi": {
+        "name": "Bắc"
+      },
+      "en": {
+        "name": "North"
+      }
+    }
+  },
+  {
+    "id": "5",
+    "translates": {
+      "vi": {
+        "name": "Đông Nam"
+      },
+      "en": {
+        "name": "Southeast"
+      }
+    }
+  },
+  {
+    "id": "6",
+    "translates": {
+      "vi": {
+        "name": "Tây Nam"
+      },
+      "en": {
+        "name": "Southwest"
+      }
+    }
+  },
+  {
+    "id": "7",
+    "translates": {
+      "vi": {
+        "name": "Đông Bắc"
+      },
+      "en": {
+        "name": "Northeast"
+      }
+    }
+  },
+  {
+    "id": "8",
+    "translates": {
+      "vi": {
+        "name": "Tây Bắc"
+      },
+      "en": {
+        "name": "Northwest"
+      }
+    }
+  }
+]

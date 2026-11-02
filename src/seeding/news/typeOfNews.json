@@ -1,0 +1,24 @@
+[
+  {
+    "id": "market",
+    "translates": {
+      "vi": {
+        "name": "Thị trường"
+      },
+      "en": {
+        "name": "Market"
+      }
+    }
+  },
+  {
+    "id": "company",
+    "translates": {
+      "vi": {
+        "name": "Công ty"
+      },
+      "en": {
+        "name": "Company"
+      }
+    }
+  }
+]
